@@ -1,4 +1,4 @@
-# 🧠 EduGenie - AI-Powered Educational Assistant
+sugasugashini60# 🧠 EduGenie - AI-Powered Educational Assistant
 
 EduGenie is a modular system designed to provide personalized academic support for students by integrating a React frontend, Node.js backend, LangChain-based Python scripts, and Google Gemini LLM.
 
